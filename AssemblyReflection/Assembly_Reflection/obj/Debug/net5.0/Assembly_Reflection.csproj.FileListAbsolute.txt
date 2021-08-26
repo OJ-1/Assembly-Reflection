@@ -1,0 +1,16 @@
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\bin\Debug\net5.0\Assembly_Reflection.exe
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\bin\Debug\net5.0\Assembly_Reflection.deps.json
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\bin\Debug\net5.0\Assembly_Reflection.runtimeconfig.json
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\bin\Debug\net5.0\Assembly_Reflection.runtimeconfig.dev.json
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\bin\Debug\net5.0\Assembly_Reflection.dll
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\bin\Debug\net5.0\ref\Assembly_Reflection.dll
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\bin\Debug\net5.0\Assembly_Reflection.pdb
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.csproj.AssemblyReference.cache
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.AssemblyInfoInputs.cache
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.AssemblyInfo.cs
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.csproj.CoreCompileInputs.cache
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.dll
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\ref\Assembly_Reflection.dll
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.pdb
+C:\Users\OJ\source\VC\PROG Y2\AssemblyReflection\Assembly_Reflection\obj\Debug\net5.0\Assembly_Reflection.genruntimeconfig.cache
